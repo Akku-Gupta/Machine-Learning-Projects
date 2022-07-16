@@ -22,19 +22,21 @@ Output variable (based on sensory data):
 
 Download link: https://www.kaggle.com/rajyellow46/wine-quality
 
-Libraries Used
-pandas
-matplotlib
-seaborn
-scikit-learn
+Libraries Used:
+Pandas
+Matplotlib
+Seaborn
+Scikit-learn
 Algorithms
 Logistic Regression
 Decision Tree
 Random Forest
-Extra Tress
+Extra Trees
+
 Best Model Accuracy: 89.60
 
-Future Work
+Future Work:
+
 Removing Outliers
 Removing Attributes
 Random UnderSampling
